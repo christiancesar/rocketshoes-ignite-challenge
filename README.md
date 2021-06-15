@@ -1,6 +1,6 @@
 # Rocketshoes Challenge Ignite
 
-Intuito do desafio constituía colocar em prática os aprendizados do capítulo I, onde foi abordado conceitos de ReactJs como: 
+Intuito do desafio constituía colocar em prática os aprendizados do capítulo II, onde foi abordado conceitos de ReactJs como: 
   * Estado, 
   * Imutabilidade, 
   * Componentização, 
